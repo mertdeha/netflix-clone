@@ -1,3 +1,3 @@
 # netflix-clone
 
-![](screen-gif.gif)
+![](screen-gif-2.gif)
