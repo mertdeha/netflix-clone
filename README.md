@@ -1,4 +1,4 @@
-# netflix-clone
+# Netflix-Clone
 
 # Preview
 
